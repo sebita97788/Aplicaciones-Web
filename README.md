@@ -66,7 +66,11 @@ Efrain Ricardo Bautista Ubillus
 
 ### 1.1. Startup Profile
 #### 1.1.1. Descripción de la Startup
+Somos una compañía recién creada llamada **"TechnoLoad"** que tiene una misión en mente: **optimizar la gestión operativa y reducir los costos de mantenimiento e inoperatividad en empresas de alquiler de maquinaria pesada y transporte de carga.**
+
+Por esta razón, nos reunimos y trabajamos con cooperación, eficiencia y responsabilidad para crear nuestra solución tecnológica **"TechnoLoad"**. Los integrantes que conforman este equipo son:
 #### 1.1.2. Perfiles de integrantes del equipo
+
 
 ### 1.2. Solution Profile
 #### 1.2.1. Antecedentes y problemática
