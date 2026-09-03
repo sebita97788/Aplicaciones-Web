@@ -24,10 +24,10 @@
 <br>
 
 **Curso:**  
-Desarrollo de Aplicaciones Open Source
+Aplicaciones Web
 
 **Sección:**  
-7750
+
 
 <br>
 
