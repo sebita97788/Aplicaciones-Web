@@ -104,9 +104,40 @@ Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los
 | **How?** | ¿Qué llevó a la persona a esta situación? | Los métodos tradicionales basados en hojas de cálculo manuales o registros en papel impiden la visibilidad en tiempo real de los activos. TechnoLoad facilitará el control centralizado en línea a través de un dashboard inteligente y alertas automatizadas que permitirán a los usuarios coordinar mantenimientos y despachos eficientemente mediante suscripción mensual. |
 | **How Much?** | ¿Cuál es la cantidad, duración o intensidad del evento? | Las paradas no planificadas de maquinaria provocan sobrecostos de mantenimiento correctivo de hasta un 32% más elevados comparados con esquemas preventivos, pudiendo representar hasta un 94% de tiempo fuera de servicio innecesario según estudios locales de confiabilidad. |
 #### 1.2.2. Lean UX Process
+
 ##### 1.2.2.1. Lean UX Problem Statements
+
+"En un contexto de creciente exigencia por la eficiencia operativa y reducción de costos en los sectores de construcción, minería y transporte, se hace evidente la necesidad de una aplicación web de gestión de flotas que facilite la supervisión en tiempo real, el control preventivo de mantenimientos y la asignación optimizada de rutas. Dicha aplicación web debe proporcionar una experiencia clara y centralizada para cada empresa, adaptándose a la diversidad de activos de su flota."
+
+Como grupo, nos comprometeremos a resolver este desafío mediante una colaboración estrecha con los administradores de flota y coordinadores logísticos. Nos enfocaremos en comprender profundamente las necesidades y expectativas de nuestros usuarios, utilizando esta información para diseñar y desarrollar una solución innovadora que satisfaga sus requerimientos de manera integral.
+
 ##### 1.2.2.2. Lean UX Assumptions
+
+**Business Assumptions**
+
+* **Pienso que mis clientes necesitan** un control automático e integral de sus flotas para evitar paradas no programadas y reducir costos de mantenimiento.
+* **Estas demandas pueden ser satisfechas mediante** una plataforma en línea SaaS que centralice la información de horómetros, programe mantenimientos preventivos y optimice la asignación de rutas de transporte.
+* **Los primeros clientes serán** aquellos gerentes de operaciones y administradores de flota que ya buscan activamente digitalizar sus procesos para mejorar la rentabilidad de sus equipos.
+* **La principal necesidad que los clientes tienen de mi servicio es** contar con alertas oportunas de mantenimiento y visibilidad completa del estado operativo de sus unidades en tiempo real.
+* **Obtendré la mayor parte de mis clientes mediante** estrategias de marketing B2B dirigidas a empresas del sector construcción, minería y logística, así como alianzas comerciales con gremios de transporte.
+* **Generaré ingresos mediante** un modelo de suscripción mensual o anual ajustado según la cantidad de unidades o máquinas registradas en la plataforma.
+* **El principal problema que puede afectar a mi producto es** la resistencia al cambio o la falta de hábito del personal operativo para ingresar lecturas de uso de manera constante.
+* **Abordaremos esta situación mediante** una interfaz sumamente intuitiva, responsive y la integración progresiva de automatización para simplificar el registro de datos.
+
+**User Assumptions**
+
+* Los usuarios están buscando una solución integral que no solo les permita controlar mantenimientos, sino también gestionar despachos y rutas desde un mismo lugar.
+* Los usuarios valoran altamente la conveniencia y accesibilidad de una plataforma en línea, prefiriendo la flexibilidad de acceder a los datos de la flota desde cualquier dispositivo con conexión a internet.
+* Los usuarios están dispuestos a invertir en una plataforma SaaS que les proporcione información en tiempo real para tomar decisiones rápidas que eviten pérdidas económicas en obra.
+* Los usuarios esperan que las alertas de mantenimiento sean altamente configurables según los límites de horómetros o kilometraje específicos de cada tipo de máquina o vehículo.
+* Los usuarios valoran la seguridad y confiabilidad en una plataforma de gestión, buscando garantías de que la información operativa y financiera de sus flotas se trate de manera segura y confidencial.
+
 ##### 1.2.2.3. Lean UX Hypothesis Statements
+
+* "Si ofrecemos a los usuarios un acceso conveniente y flexible a la gestión de flotas en línea, permitiendo el control de mantenimientos preventivos y asignación de rutas, entonces aumentará la probabilidad de que las empresas se comprometan a largo plazo con la plataforma, lo que resultará en una mayor retención de clientes."
+* "Si proporcionamos un sistema de alertas de mantenimiento preventivo configurables por horómetro y kilometraje, entonces aumentará la satisfacción del usuario y se reducirán las paradas no programadas en obra, lo que contribuirá al crecimiento del negocio a través de recomendaciones positivas en el sector."
+* "Si garantizamos la seguridad y confidencialidad de los datos operativos y de telemetría de las flotas de nuestros clientes, entonces aumentará la confianza y la lealtad de los usuarios hacia la plataforma, lo que resultará en una menor tasa de cancelación de suscripciones."
+* "Si desarrollamos una interfaz de usuario intuitiva y fácil de usar en TechnoLoad, que permita a los administradores visualizar el estado de sus equipos en un dashboard claro, entonces aumentará la frecuencia de uso y la precisión en los registros de datos, lo que conducirá a una mejor adopción del sistema y al crecimiento del negocio."
 ##### 1.2.2.4. Lean UX Canvas
 
 ### 1.3. Segmentos objetivo
