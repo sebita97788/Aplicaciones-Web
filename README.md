@@ -78,6 +78,16 @@ Por esta razón, nos reunimos y trabajamos con cooperación, eficiencia y respon
 | <img src="/assets/integrante3.jpg" width="150" alt="Nombre Compañero 3"> | Mi nombre es [Nombre del Compañero 3] con código de estudiante u[Código], soy estudiante de la carrera de Ingeniería de Software. Entre mis conocimientos se encuentran [Mencionar tecnologías]. Como miembro del equipo, aportarédicaión y colaboración constante para lograr un proyecto sólido. |
 
 ### 1.2. Solution Profile
+
+TechnoLoad es una completa plataforma web desarrollada por nuestra startup, diseñada para atender tanto a empresas de alquiler de maquinaria pesada como a empresas de transporte y logística de carga. Ofrece un modelo de suscripción SaaS que brinda a los administradores de flota y coordinadores logísticos acceso a un control centralizado de mantenimiento preventivo, seguimiento telemetrado de uso por horómetros/kilometraje y asignación optimizada de rutas. TechnoLoad tiene como objetivo revolucionar la gestión de flotas integrando tecnología con soluciones operativas personalizadas de manera fluida.
+
+**Características Principales:**
+
+* **Gestión de Mantenimiento Preventivo:** TechnoLoad utiliza algoritmos basados en horómetros y kilometraje para generar alertas y planes de mantenimiento preventivo adaptados a las especificaciones de cada máquina o vehículo, asegurando máxima disponibilidad operativa.
+* **Asignación y Optimización de Rutas:** TechnoLoad conecta a los coordinadores logísticos con la flota disponible, permitiendo programar despachos de carga en tiempo real, optimizando consumos de combustible y reduciendo tiempos muertos.
+* **Monitoreo Telemetrado de Flota:** TechnoLoad ofrece un dashboard interactivo donde los usuarios pueden visualizar el estado operativo (Disponible, En Tránsito, En Mantenimiento) de cada activo de la empresa.
+* **Seguimiento de Rendimiento y Costos:** TechnoLoad permite realizar un seguimiento continuo del desempeño de la flota mediante informes detallados, monitoreando métricas clave como costos de mantenimiento, horas de uso y rentabilidad por unidad.
+
 #### 1.2.1. Antecedentes y problemática
 #### 1.2.2. Lean UX Process
 ##### 1.2.2.1. Lean UX Problem Statements
