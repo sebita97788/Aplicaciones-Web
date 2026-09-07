@@ -39,7 +39,7 @@ Aplicaciones Web
 | WILMER SEBASTIAN GUTIERREZ LIZARBE| U202412044 |
 | MATHIAS ALEJANDRO CASTILLO GUEVARA | U202410783 |
 | EDGARD DANIEL DIAZ CARUZO | U202323911 |
-| [Nombre completo 4] | [Código] |
+| [Nombre completo 5] | [Código] |
 
 <br>
 
@@ -75,7 +75,7 @@ Por esta razón, nos reunimos y trabajamos con cooperación, eficiencia y respon
 | Foto | Descripción del Integrante |
 | :---: | :--- |
 | <img src="./assets/wilmer.jpeg" width="150" alt="Wilmer Gutierrez">| Mi nombre es Wilmer Sebastian Gutierrez Lizarbe con el código de estudiante u202412044, estoy cursando el quinto ciclo en la carrera de Ingeniería de Software. Tengo conocimientos que pueden aportar al proyecto, tales como: codificación en Python, JavaScript, C++, gestión de bases de datos relacionales y no relacionales como SQL Server, MongoDB y Firebase, así como el diseño de arquitectura web. Las habilidades que puedo aportar a mi equipo son responsabilidad, liderazgo técnico y compromiso para entregar un producto de software funcional y de alta calidad. |
-| <img src="###" width="150" alt="Nombre Compañero 2"> | Mi nombre es [Nombre del Compañero 2] con código de estudiante u[Código], estoy cursando el quinto ciclo de la carrera de Ingeniería de Software. Cuento con conocimientos en [Mencionar tecnologías o habilidades]. Me comprometo a trabajar en equipo con responsabilidad y puntualidad para cumplir con las metas del proyecto. |
+| <img src="Foto_Daniel.jpeg" width="150" alt="Daniel Diaz"> | Mi nombre es Edgard Daniel Diaz Caruzo con código de estudiante u202323911 estoy en la carrera de Ingeniería de Software y voy en mi 5to ciclo de la carrera, una de mis cualidades es la responsabilidad y la puntualidad. Mi objetivo es apoyar en cualquier cosa a mis compañeros. |
 | <img src="/assets/integrante3.jpg" width="150" alt="Nombre Compañero 3"> | Mi nombre es [Nombre del Compañero 3] con código de estudiante u[Código], soy estudiante de la carrera de Ingeniería de Software. Entre mis conocimientos se encuentran [Mencionar tecnologías]. Como miembro del equipo, aportarédicaión y colaboración constante para lograr un proyecto sólido. |
 
 ### 1.2. Solution Profile
