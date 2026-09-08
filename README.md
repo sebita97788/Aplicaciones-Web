@@ -236,6 +236,15 @@ Para afrontar las fortalezas y debilidades identificadas en nuestros competidore
 
 *Táctica:* Iniciar con empresas de alquiler de maquinaria pesada y empresas de transporte y logística de carga, y posteriormente incorporar nuevas funcionalidades y segmentos de acuerdo con las necesidades identificadas en el mercado.
 
+### 2.2. Entrevistas
+En esta sección se aborda la investigación tomando como base la recolección de información mediante entrevistas a representantes de los segmentos objetivo de TechnoLoad. El propósito es conocer sus experiencias, necesidades, problemas y expectativas relacionadas con la gestión de maquinaria pesada y vehículos de carga.
+
+Las entrevistas estarán dirigidas a representantes de los dos segmentos seleccionados:
+
+- Empresas de alquiler de maquinaria pesada.
+- Empresas de transporte y logística de carga.
+
+La información obtenida permitirá validar los problemas identificados y comprender mejor las necesidades de los usuarios para mejorar las funcionalidades de TechnoLoad.
 #### 2.2.2. Registro de entrevistas
 #### 2.2.3. Análisis de entrevistas
 
