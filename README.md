@@ -164,7 +164,7 @@ Los segmentos objetivo principales son los siguientes:
 | **Empresas de transporte y logística de carga** | **Administrador de flota** | Responsable de supervisar los vehículos pertenecientes a la empresa. | Controlar el kilometraje, el estado operativo y los mantenimientos de cada vehículo. |
 
 
-## Capítulo II: Requirements Elicitation & Analysis
+## Capítulo II: Requirements Elicitation & Analysis~~~~
 
 ## 2.1. Competidores
 
