@@ -185,6 +185,8 @@ Los segmentos objetivo principales son los siguientes:
 | *SWOT - Oportunidades* | Digitalización de empresas, crecimiento de PYMES, reducción de costos e IoT. | Crecimiento de vehículos conectados e IoT. | Crecimiento de la telemática. | Mayor digitalización del mantenimiento. |
 | *SWOT - Amenazas* | Competidores internacionales, resistencia al cambio y problemas de conectividad. | Competencia de plataformas de telemática. | Competidores económicos y nuevas tecnologías. | Plataformas integrales y soluciones propias. | |
 
+---
+
 #### 2.1.2. Estrategias y tácticas frente a competidores
 Para afrontar las fortalezas y debilidades identificadas en nuestros competidores, así como aprovechar las oportunidades y responder a las amenazas presentes en el mercado, TechnoLoad plantea las siguientes estrategias y tácticas preliminares:
 
@@ -244,8 +246,62 @@ Las entrevistas estarán dirigidas a representantes de los dos segmentos selecci
 - Empresas de alquiler de maquinaria pesada.
 - Empresas de transporte y logística de carga.
 
-La información obtenida permitirá validar los problemas identificados y comprender mejor las necesidades de los usuarios para mejorar las funcionalidades de TechnoLoad.
-#### 2.2.2. Registro de entrevistas
+
+---
+#### 2.2.1. Diseño de entrevistas
+
+El diseño de las entrevistas busca recopilar información principal y complementaria de los representantes de los segmentos objetivo. Las preguntas serán abiertas para permitir que los entrevistados puedan explicar sus experiencias y opiniones.
+
+También se considerarán aspectos necesarios para construir posteriormente los arquetipos de usuario, como ocupación, experiencia, habilidades, dispositivos utilizados, canales digitales, objetivos y frustraciones.
+
+#### Segmento 1: Empresas de alquiler de maquinaria pesada
+
+*Perfil del entrevistado:* Administrador de maquinaria o flota / Gerente de operaciones.
+
+1. ¿Cuál es su cargo, cuánto tiempo lleva trabajando en el sector y cuáles son sus principales responsabilidades?
+
+2. ¿Cómo realizan actualmente el control de las máquinas disponibles, alquiladas y en mantenimiento?
+
+3. ¿Cómo registran el horómetro y planifican los mantenimientos preventivos de las maquinarias?
+
+4. ¿Cuáles son los principales problemas o frustraciones que encuentra al gestionar las maquinarias?
+
+5. ¿Qué herramientas, dispositivos o canales digitales utiliza con mayor frecuencia para realizar su trabajo?
+
+6. ¿Qué características debería tener una plataforma como TechnoLoad para ayudarlo a mejorar la gestión y cumplir sus objetivos?
+
+#### Segmento 2: Empresas de transporte y logística de carga
+
+*Perfil del entrevistado:* Coordinador logístico / Administrador de flota.
+
+1. ¿Cuál es su cargo, cuánto tiempo lleva trabajando en el sector y cuáles son sus principales responsabilidades?
+
+2. ¿Cómo realizan actualmente el control de los vehículos disponibles, en tránsito y en mantenimiento?
+
+3. ¿Cómo registran el kilometraje, los mantenimientos y la asignación de los vehículos?
+
+4. ¿Cuáles son los principales problemas o frustraciones que encuentra al gestionar la flota y las operaciones?
+
+5. ¿Qué herramientas, dispositivos o canales digitales utiliza con mayor frecuencia para realizar su trabajo?
+
+6. ¿Qué características debería tener una plataforma como TechnoLoad para ayudarlo a mejorar la gestión de la flota y cumplir sus objetivos?
+
+#### Información para la construcción de arquetipos
+
+Las respuestas obtenidas permitirán identificar características relevantes de los usuarios, considerando:
+
+- *Perfil demográfico:* edad, género, distrito de residencia y situación familiar, cuando sea pertinente.
+- *Ocupación:* cargo, responsabilidades y experiencia laboral.
+- *Personalidad y habilidades:* forma de trabajo, toma de decisiones y manejo de herramientas tecnológicas.
+- *Marcas e influencias:* empresas, marcas o referentes que influyen en sus decisiones.
+- *Dispositivos y canales digitales:* computadora, laptop, tablet, celular, correo electrónico, redes sociales y otras plataformas utilizadas.
+- *Objetivos:* eficiencia, reducción de costos, disponibilidad de activos y cumplimiento de operaciones.
+- *Frustraciones:* dificultades, retrasos, tareas manuales y problemas relacionados con la gestión de maquinaria o vehículos.
+
+---
+
+### 2.2.2. Registro de entrevistas
+
 #### 2.2.3. Análisis de entrevistas
 
 ### 2.3. Needfinding
