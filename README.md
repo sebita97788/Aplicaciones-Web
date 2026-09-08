@@ -143,7 +143,7 @@ Como grupo, nos comprometeremos a resolver este desafío mediante una colaboraci
 * "Si desarrollamos una interfaz de usuario intuitiva y fácil de usar en TechnoLoad, que permita a los administradores visualizar el estado de sus equipos en un dashboard claro, entonces aumentará la frecuencia de uso y la precisión en los registros de datos, lo que conducirá a una mejor adopción del sistema y al crecimiento del negocio."
 ##### 1.2.2.4. Lean UX Canvas
 
-### 1.3. Segmentos objetivo
+~~### 1.3. Segmentos objetivo
 
 TechnoLoad está dirigido principalmente a empresas que necesitan mejorar la gestión de sus activos, reducir costos operativos y evitar periodos de inactividad ocasionados por fallas o una deficiente planificación del mantenimiento.
 
@@ -309,7 +309,7 @@ Las respuestas obtenidas permitirán identificar características relevantes de 
 - **Marcas e influencias:** empresas, marcas o referentes que influyen en sus decisiones.
 - **Dispositivos y canales digitales:** computadora, laptop, tablet, celular, correo electrónico, redes sociales y otras plataformas utilizadas.
 - **Objetivos:** eficiencia, reducción de costos, disponibilidad de activos y cumplimiento de operaciones.
-- **Frustraciones:** dificultades, retrasos, tareas manuales y problemas relacionados con la gestión de maquinaria o vehículos.
+- **Frustraciones:** dificultades, retrasos, tareas manuales y problemas relacionados con la gestión de maquinaria o vehículos.~~
 
 #### 2.2.2. Registro de entrevistas
 #### 2.2.3. Análisis de entrevistas
