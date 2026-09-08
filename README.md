@@ -72,13 +72,13 @@ Somos una compañía recién creada llamada **"TechnoLoad"** que tiene una misi�
 Por esta razón, nos reunimos y trabajamos con cooperación, eficiencia y responsabilidad para crear nuestra solución tecnológica **"TechnoLoad"**. Los integrantes que conforman este equipo son:
 #### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto | Descripción del Integrante |
-| :---: | :--- |
+| Foto | Descripción del Integrante                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| :---: |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <img src="./assets/wilmer.jpeg" width="150" alt="Wilmer Gutierrez">| Mi nombre es Wilmer Sebastian Gutierrez Lizarbe con el código de estudiante u202412044, estoy cursando el quinto ciclo en la carrera de Ingeniería de Software. Tengo conocimientos que pueden aportar al proyecto, tales como: codificación en Python, JavaScript, C++, gestión de bases de datos relacionales y no relacionales como SQL Server, MongoDB y Firebase, así como el diseño de arquitectura web. Las habilidades que puedo aportar a mi equipo son responsabilidad, liderazgo técnico y compromiso para entregar un producto de software funcional y de alta calidad. |
-| <img src="/assets/Foto_Daniel.jpeg" width="150" alt="Daniel"> | Mi nombre es Edgard Daniel Diaz Caruzo con código de estudiante u202323911 estoy en la carrera de Ingeniería de Software y voy en mi 5to ciclo de la carrera, una de mis cualidades es la responsabilidad y la puntualidad. Mi objetivo es apoyar en cualquier cosa a mis compañeros. |
-| <img src="/assets/integrante3.jpg" width="150" alt="Nombre Compañero 3"> | Mi nombre es [Nombre del Compañero 3] con código de estudiante u[Código], soy estudiante de la carrera de Ingeniería de Software. Entre mis conocimientos se encuentran [Mencionar tecnologías]. Como miembro del equipo, aportarédicaión y colaboración constante para lograr un proyecto sólido. |
-| <img src="/assets/integrante4.jpg" width="150" alt="Nombre Compañero 4"> | Mi nombre es [Nombre del Compañero 3] con código de estudiante u[Código], soy estudiante de la carrera de Ingeniería de Software. Entre mis conocimientos se encuentran [Mencionar tecnologías]. Como miembro del equipo, aportarédicaión y colaboración constante para lograr un proyecto sólido. |
-| <img src="/assets/integrante5.jpg" width="150" alt="Nombre Compañero 5"> | Mi nombre es [Nombre del Compañero 3] con código de estudiante u[Código], soy estudiante de la carrera de Ingeniería de Software. Entre mis conocimientos se encuentran [Mencionar tecnologías]. Como miembro del equipo, aportarédicaión y colaboración constante para lograr un proyecto sólido. |
+| <img src="/assets/Foto_Daniel.jpeg" width="150" alt="Daniel"> | Mi nombre es Edgard Daniel Diaz Caruzo con código de estudiante u202323911 estoy en la carrera de Ingeniería de Software y voy en mi 5to ciclo de la carrera, una de mis cualidades es la responsabilidad y la puntualidad. Mi objetivo es apoyar en cualquier cosa a mis compañeros.                                                                                                                                                                                                                                                                                               |
+| <img src="/assets/integrante3.jpg" width="150" alt="Nombre Compañero 3"> | Mi nombre es Nicolas Tantalean Granda con código de estudiante u202410728, soy estudiante de la carrera de Ingeniería de Software y estoy cursando el 5to ciclo. Entre mis conocimientos se encuentran HTML, CSS, JAVA entre otras. Como miembro del equipo, aportare y colaborare constante para lograr un proyecto sólido y del agrado de todos.                                                                                                                                                                                                                                  |
+| <img src="/assets/integrante4.jpg" width="150" alt="Nombre Compañero 4"> | Mi nombre es [Nombre del Compañero 3] con código de estudiante u[Código], soy estudiante de la carrera de Ingeniería de Software. Entre mis conocimientos se encuentran [Mencionar tecnologías]. Como miembro del equipo, aportarédicaión y colaboración constante para lograr un proyecto sólido.                                                                                                                                                                                                                                                                                  |
+| <img src="/assets/integrante5.jpg" width="150" alt="Nombre Compañero 5"> | Mi nombre es [Nombre del Compañero 3] con código de estudiante u[Código], soy estudiante de la carrera de Ingeniería de Software. Entre mis conocimientos se encuentran [Mencionar tecnologías]. Como miembro del equipo, aportarédicaión y colaboración constante para lograr un proyecto sólido.                                                                                                                                                                                                                                                                                  |
 
 ### 1.2. Solution Profile
 
@@ -145,16 +145,172 @@ Como grupo, nos comprometeremos a resolver este desafío mediante una colaboraci
 
 ### 1.3. Segmentos objetivo
 
----
+TechnoLoad está dirigido principalmente a empresas que necesitan mejorar la gestión de sus activos, reducir costos operativos y evitar periodos de inactividad ocasionados por fallas o una deficiente planificación del mantenimiento.
+
+Los segmentos objetivo principales son los siguientes:
+
+| Segmento objetivo | Descripción | Principales necesidades | Cómo ayuda TechnoLoad |
+|---|---|---|---|
+| **Empresas de alquiler de maquinaria pesada** | Empresas dedicadas al alquiler y gestión de maquinaria como excavadoras, cargadores frontales, retroexcavadoras, grúas y otros equipos utilizados en sectores como construcción y minería. | Controlar las horas de funcionamiento de cada máquina, programar mantenimientos preventivos, reducir fallas inesperadas y aumentar la disponibilidad de los equipos. | TechnoLoad permite registrar la maquinaria, controlar los horómetros, gestionar el historial de mantenimiento y generar alertas sobre próximos servicios. |
+| **Empresas de transporte y logística de carga** | Empresas que realizan operaciones de transporte de mercancías mediante camiones y otros vehículos de carga. | Controlar el kilometraje, conocer la disponibilidad de los vehículos, reducir tiempos muertos y mejorar la organización de las operaciones logísticas. | TechnoLoad permite visualizar el estado de los vehículos, controlar el kilometraje, gestionar mantenimientos y conocer la disponibilidad de cada unidad. |
+
+#### Principales usuarios de la plataforma
+
+| Segmento objetivo | Usuario | Descripción | Necesidades principales |
+|---|---|---|---|
+| **Empresas de alquiler de maquinaria pesada** | **Administrador de maquinaria o flota** | Responsable de supervisar las máquinas y equipos pertenecientes a la empresa. | Conocer el estado de cada máquina, controlar las horas de uso, revisar mantenimientos y evitar paradas no programadas. |
+| **Empresas de alquiler de maquinaria pesada** | **Gerente de operaciones** | Responsable de supervisar el rendimiento y disponibilidad general de la maquinaria. | Analizar costos, disponibilidad, historial de mantenimiento y rendimiento de los equipos para tomar decisiones. |
+| **Empresas de transporte y logística de carga** | **Coordinador logístico** | Responsable de organizar los servicios de transporte y coordinar la asignación de vehículos. | Conocer qué unidades están disponibles, en operación o en mantenimiento para organizar los despachos. |
+| **Empresas de transporte y logística de carga** | **Administrador de flota** | Responsable de supervisar los vehículos pertenecientes a la empresa. | Controlar el kilometraje, el estado operativo y los mantenimientos de cada vehículo. |
+
 
 ## Capítulo II: Requirements Elicitation & Analysis
 
-### 2.1. Competidores
-#### 2.1.1. Análisis competitivo
-#### 2.1.2. Estrategias y tácticas frente a competidores
+## 2.1. Competidores
 
+En la siguiente sección se presentarán los principales competidores de TechnoLoad y se realizará una breve descripción de sus características y servicios. Este análisis permitirá conocer las soluciones existentes en el mercado, identificar sus principales fortalezas y reconocer oportunidades de diferenciación para nuestra propuesta.
+
+**Samsara:** Es una plataforma de gestión de operaciones conectadas que permite a las empresas administrar y monitorear sus flotas, vehículos y activos. Ofrece herramientas para el seguimiento de vehículos, telemática, seguridad, gestión de activos y análisis de información. Su principal fortaleza es la integración de diferentes soluciones para mejorar la visibilidad y eficiencia de las operaciones empresariales.
+
+**Geotab:** Es una plataforma especializada en gestión de flotas y telemática que permite recopilar y analizar información de vehículos y activos. Ofrece funcionalidades relacionadas con el seguimiento de vehículos, análisis de datos, mantenimiento, seguridad y optimización de flotas. Su principal fortaleza es su capacidad para utilizar datos de los vehículos y convertirlos en información útil para la toma de decisiones.
+
+**Fracttal:** Es una plataforma enfocada principalmente en la gestión del mantenimiento y los activos de las empresas. Permite planificar mantenimientos preventivos y correctivos, administrar órdenes de trabajo, controlar activos y consultar indicadores de mantenimiento. Su principal fortaleza es la especialización en mantenimiento, aunque su enfoque está más orientado a la gestión de activos que a la administración integral de operaciones de transporte.
+
+Frente a estos competidores, **TechnoLoad** busca diferenciarse mediante una plataforma enfocada en las necesidades de las empresas de alquiler de maquinaria pesada y de transporte y logística de carga. Nuestra propuesta integra el mantenimiento preventivo, control mediante horómetro y kilometraje, disponibilidad de activos y gestión operativa en una misma plataforma, buscando ofrecer una solución sencilla, accesible y adaptable al contexto de las empresas peruanas.
+
+### 2.1.1. Competitive Analysis Landscape
+
+| **Competitive Analysis Landscape** | **Descripción** |
+|---|---|
+| **¿Por qué llevar a cabo este análisis?** | Llevar a cabo este análisis nos brindará información crítica que nos permitirá tomar decisiones más informadas y estratégicas para el desarrollo, comercialización y crecimiento de nuestra aplicación. |
+
+| **Aspecto** | **TechnoLoad** | **Samsara** | **Geotab** | **Fracttal** |
+|---|---|---|---|---|
+| **Logo** | Logo de TechnoLoad | Logo de Samsara | Logo de Geotab | Logo de Fracttal |
+| **Perfil - Overview** | Plataforma web SaaS para gestionar maquinaria pesada y vehículos de carga. | Plataforma de operaciones conectadas para gestionar flotas y activos. | Plataforma de gestión de flotas y telemática. | Plataforma especializada en gestión de mantenimiento y activos. |
+| **Ventaja competitiva** | Integra mantenimiento, control de activos y gestión operativa en una sola plataforma. | Integración de telemetría y monitoreo de operaciones. | Análisis de datos y gestión avanzada de flotas. | Especialización en mantenimiento de activos. |
+| **¿Qué valor ofrece a los clientes?** | Reduce tiempos de inactividad y mejora el control de maquinaria y vehículos. | Mejora la seguridad, visibilidad y eficiencia operativa. | Facilita decisiones mediante datos de los vehículos. | Optimiza los procesos de mantenimiento. |
+| **Perfil de Marketing - Mercado objetivo** | Empresas de alquiler de maquinaria pesada y empresas de transporte y logística de carga en Perú. | Empresas con flotas que requieren monitoreo avanzado. | Empresas con flotas que necesitan telemática y análisis de datos. | Empresas que necesitan gestionar el mantenimiento de sus activos. |
+| **Perfil de Marketing - Estrategias de marketing** | Marketing digital B2B, demostraciones, contacto directo y alianzas estratégicas. | Marketing B2B, demostraciones y ventas empresariales. | Marketing B2B, alianzas comerciales y demostraciones. | Marketing digital, contenido especializado y demostraciones. |
+| **Perfil de Producto - Productos & Servicios** | Mantenimiento preventivo, horómetros, kilometraje, dashboard, alertas y disponibilidad. | Gestión de flotas, telemetría, seguridad y monitoreo de activos. | Gestión de flotas, telemática, seguimiento y análisis de datos. | Mantenimiento preventivo y correctivo, activos y órdenes de trabajo. |
+| **Perfil de Producto - Precios & Costos** | Suscripción SaaS mensual o anual según cantidad de activos. | Según soluciones y dispositivos contratados. | Según soluciones de telemática y servicios contratados. | Suscripción según las necesidades de la empresa. |
+| **Perfil de Producto - Canales de distribución (Web y/o Móvil)** | Plataforma web responsive para computadoras, tablets y celulares. | Plataforma web, aplicación móvil y dispositivos de telemetría. | Plataforma web, aplicaciones móviles y dispositivos telemáticos. | Plataforma web. |
+| **SWOT - Fortalezas** | Plataforma integral, sencilla, escalable y enfocada en el mercado peruano. | Plataforma consolidada y amplio monitoreo. | Experiencia, análisis de datos y presencia internacional. | Especialización en mantenimiento. |
+| **SWOT - Debilidades** | Startup nueva y con menor reconocimiento frente a competidores internacionales. | Dependencia de hardware y mayores costos. | Puede presentar mayor complejidad para algunos usuarios. | Menor enfoque en logística y rutas. |
+| **SWOT - Oportunidades** | Digitalización de empresas, crecimiento de PYMES, reducción de costos e IoT. | Crecimiento de vehículos conectados e IoT. | Crecimiento de la telemática. | Mayor digitalización del mantenimiento. |
+| **SWOT - Amenazas** | Competidores internacionales, resistencia al cambio y problemas de conectividad. | Competencia de plataformas de telemática. | Competidores económicos y nuevas tecnologías. | Plataformas integrales y soluciones propias. | |
+
+#### 2.1.2. Estrategias y tácticas frente a competidores
+Para afrontar las fortalezas y debilidades identificadas en nuestros competidores, así como aprovechar las oportunidades y responder a las amenazas presentes en el mercado, TechnoLoad plantea las siguientes estrategias y tácticas preliminares:
+
+**1. Diferenciación mediante una plataforma integral:**
+
+**Estrategia:** Aprovechar la oportunidad de integrar diferentes procesos de gestión en una sola plataforma para diferenciarnos de soluciones que se encuentran más especializadas en un solo aspecto.
+
+**Táctica:** Integrar en TechnoLoad la gestión del mantenimiento preventivo, horómetro, kilometraje, disponibilidad de activos y seguimiento de las operaciones, permitiendo que las empresas puedan centralizar su información.
+
+**2. Competir mediante una solución accesible para empresas peruanas:**
+
+**Estrategia:** Aprovechar el crecimiento de la digitalización de las pequeñas y medianas empresas para ofrecer una alternativa frente a competidores internacionales con soluciones más complejas.
+
+**Táctica:** Desarrollar un modelo SaaS con planes escalables según la cantidad de maquinaria y vehículos registrados, buscando que empresas de diferentes tamaños puedan acceder a la plataforma.
+
+**3. Aprovechar la debilidad de la complejidad de algunas soluciones existentes:**
+
+**Estrategia:** Diferenciarnos mediante una experiencia de usuario sencilla e intuitiva.
+
+**Táctica:** Diseñar una interfaz fácil de utilizar, con información organizada, dashboards y alertas claras que permitan a los administradores y coordinadores consultar rápidamente el estado de sus activos.
+
+**4. Responder a la fortaleza tecnológica de los competidores:**
+
+**Estrategia:** Incorporar progresivamente nuevas tecnologías que permitan mejorar las capacidades de TechnoLoad y mantener una propuesta competitiva.
+
+**Táctica:** Considerar futuras integraciones con tecnologías IoT y sistemas de telemetría para obtener información más precisa sobre el uso, ubicación y estado de los vehículos y maquinaria.
+
+**5. Aprovechar la necesidad de reducir costos operativos:**
+
+**Estrategia:** Posicionar TechnoLoad como una herramienta que ayude a reducir costos ocasionados por mantenimientos no planificados y tiempos de inactividad.
+
+**Táctica:** Implementar alertas de mantenimiento basadas en el horómetro y kilometraje, permitiendo programar mantenimientos preventivos antes de que ocurran fallas que puedan afectar las operaciones.
+
+**6. Responder a la amenaza de competidores consolidados:**
+
+**Estrategia:** Diferenciar TechnoLoad mediante una atención más cercana y una adaptación a las necesidades específicas de los clientes.
+
+**Táctica:** Ofrecer demostraciones de la plataforma, soporte personalizado y recopilación continua de comentarios de los usuarios para mejorar las funcionalidades según las necesidades del mercado peruano.
+
+**7. Enfrentar la resistencia al cambio tecnológico:**
+
+**Estrategia:** Facilitar la adopción de la plataforma por parte de empresas que todavía utilizan métodos manuales para gestionar sus activos.
+
+**Táctica:** Mostrar mediante demostraciones y casos prácticos cómo TechnoLoad puede centralizar información, reducir tareas manuales y facilitar el control de maquinaria y vehículos.
+
+**8. Aprovechar las oportunidades de crecimiento del mercado:**
+
+**Estrategia:** Expandir progresivamente TechnoLoad hacia nuevas empresas y sectores relacionados con la gestión de activos y transporte.
+
+**Táctica:** Iniciar con empresas de alquiler de maquinaria pesada y empresas de transporte y logística de carga, y posteriormente incorporar nuevas funcionalidades y segmentos de acuerdo con las necesidades identificadas en el mercado.
 ### 2.2. Entrevistas
+En esta sección se aborda la investigación tomando como base la recolección de información mediante entrevistas a representantes de los segmentos objetivo de TechnoLoad. El propósito es conocer sus experiencias, necesidades, problemas y expectativas relacionadas con la gestión de maquinaria pesada y vehículos de carga.
+
+Las entrevistas estarán dirigidas a representantes de los dos segmentos seleccionados:
+
+- Empresas de alquiler de maquinaria pesada.
+- Empresas de transporte y logística de carga.
+
+La información obtenida permitirá validar los problemas identificados y comprender mejor las necesidades de los usuarios para mejorar las funcionalidades de TechnoLoad.
+
+---
 #### 2.2.1. Diseño de entrevistas
+
+El diseño de las entrevistas busca recopilar información principal y complementaria de los representantes de los segmentos objetivo. Las preguntas serán abiertas para permitir que los entrevistados puedan explicar sus experiencias y opiniones.
+
+También se considerarán aspectos necesarios para construir posteriormente los arquetipos de usuario, como ocupación, experiencia, habilidades, dispositivos utilizados, canales digitales, objetivos y frustraciones.
+
+#### Segmento 1: Empresas de alquiler de maquinaria pesada
+
+**Perfil del entrevistado:** Administrador de maquinaria o flota / Gerente de operaciones.
+
+1. ¿Cuál es su cargo, cuánto tiempo lleva trabajando en el sector y cuáles son sus principales responsabilidades?
+
+2. ¿Cómo realizan actualmente el control de las máquinas disponibles, alquiladas y en mantenimiento?
+
+3. ¿Cómo registran el horómetro y planifican los mantenimientos preventivos de las maquinarias?
+
+4. ¿Cuáles son los principales problemas o frustraciones que encuentra al gestionar las maquinarias?
+
+5. ¿Qué herramientas, dispositivos o canales digitales utiliza con mayor frecuencia para realizar su trabajo?
+
+6. ¿Qué características debería tener una plataforma como TechnoLoad para ayudarlo a mejorar la gestión y cumplir sus objetivos?
+
+#### Segmento 2: Empresas de transporte y logística de carga
+
+**Perfil del entrevistado:** Coordinador logístico / Administrador de flota.
+
+1. ¿Cuál es su cargo, cuánto tiempo lleva trabajando en el sector y cuáles son sus principales responsabilidades?
+
+2. ¿Cómo realizan actualmente el control de los vehículos disponibles, en tránsito y en mantenimiento?
+
+3. ¿Cómo registran el kilometraje, los mantenimientos y la asignación de los vehículos?
+
+4. ¿Cuáles son los principales problemas o frustraciones que encuentra al gestionar la flota y las operaciones?
+
+5. ¿Qué herramientas, dispositivos o canales digitales utiliza con mayor frecuencia para realizar su trabajo?
+
+6. ¿Qué características debería tener una plataforma como TechnoLoad para ayudarlo a mejorar la gestión de la flota y cumplir sus objetivos?
+
+#### Información para la construcción de arquetipos
+
+Las respuestas obtenidas permitirán identificar características relevantes de los usuarios, considerando:
+
+- **Perfil demográfico:** edad, género, distrito de residencia y situación familiar, cuando sea pertinente.
+- **Ocupación:** cargo, responsabilidades y experiencia laboral.
+- **Personalidad y habilidades:** forma de trabajo, toma de decisiones y manejo de herramientas tecnológicas.
+- **Marcas e influencias:** empresas, marcas o referentes que influyen en sus decisiones.
+- **Dispositivos y canales digitales:** computadora, laptop, tablet, celular, correo electrónico, redes sociales y otras plataformas utilizadas.
+- **Objetivos:** eficiencia, reducción de costos, disponibilidad de activos y cumplimiento de operaciones.
+- **Frustraciones:** dificultades, retrasos, tareas manuales y problemas relacionados con la gestión de maquinaria o vehículos.
+
 #### 2.2.2. Registro de entrevistas
 #### 2.2.3. Análisis de entrevistas
 
